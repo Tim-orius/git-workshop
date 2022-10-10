@@ -1,6 +1,6 @@
 # README
 
-*Note*: The tasks (see at the end) are already done in this repository. For original see (here)[https://github.com/SpechtMagnus/git-workshop]
+*Note*: The tasks (see at the end) are already done in this repository. For original see [here](https://github.com/SpechtMagnus/git-workshop)
 
 ## Description
 
